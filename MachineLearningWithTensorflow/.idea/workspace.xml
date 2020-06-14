@@ -11,8 +11,10 @@
       <change afterPath="$PROJECT_DIR$/MachineLearningWithTensorflow/Lesson2LinearRegression/regularization.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/MachineLearningWithTensorflow/Lesson3PerceptronAlgorithm/data.csv" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/MachineLearningWithTensorflow/Lesson3PerceptronAlgorithm/perceptron.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MachineLearningWithTensorflow/Lesson4DecisionTrees/data_decision_tree.csv" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/MachineLearningWithTensorflow/Lesson4DecisionTrees/decision_tree_sklearn.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/MachineLearningWithTensorflow/Lesson4DecisionTrees/information_gain.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MachineLearningWithTensorflow/Lesson5SupportVectorMachines/support_vec_machines_quiz.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../.babelrc" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../.coveragerc" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../.drone.yml" beforeDir="false" />

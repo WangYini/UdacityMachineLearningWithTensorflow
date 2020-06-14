@@ -12,7 +12,7 @@ y = data[:,2]
 
 # TODO: Create the model and assign it to the variable model.
 # Find the right parameters for this model to achieve 100% accuracy on the dataset.
-model = None
+model = "test change"
 
 # TODO: Fit the model.
 

@@ -1,9 +1,0 @@
-numpy.multiply == * elementwise
-
-numpy.matmul == matrix multiply
-
-dataframe = pandas.read_csv, get data in dataframe using [["key"]] to get a dataframe instead of series
-
-numpy.genfromtxt("filename", delimiter=",") to get data from file
-
-numpy.reshape(ndarray, [new_row_num, new_col_num]) when new_row_num == -1, calculated auto 

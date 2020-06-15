@@ -1,0 +1,1 @@
+more rigid the model is, lower the entropy is, higher the knowledge is

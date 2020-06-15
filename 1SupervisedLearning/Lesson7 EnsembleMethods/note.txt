@@ -1,0 +1,7 @@
+In general, there is a five step process that can be used each time you want to use a supervised learning method (which you actually used above):
+
+1. Import the model.
+2. Instantiate the model with the hyperparameters of interest.
+3. Fit the model to the training data.
+4. Predict on the test data.
+5. Score the model by comparing the predictions to the actual values.

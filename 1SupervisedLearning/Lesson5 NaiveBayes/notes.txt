@@ -1,0 +1,15 @@
+P(A&B) = P(A|B)*P(B) = P(B|A)*P(A)
+
+if A and B are independent, P(A&B) = P(A)*P(B)
+
+Prior (what we know): P(A), P(B|A), P(B|~A)
+
+(what we know naturally due to compliment): P(~A), P(~B|A), P(~B|~A)
+
+Posterior (what we infer): P(A|B)
+
+(other forms): P(A|~B), P(~A|B), P(~A|~B)
+
+
+P(A|B) = P(B|A)*P(A)/P(B)
+in which P(B) = P(B|A)*P(A) + P(B|~A)*P(~A)
